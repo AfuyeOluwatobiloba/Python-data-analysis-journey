@@ -1,9 +1,5 @@
 # Python-data-analysis-journey
 
-
-
-Perfect! Here’s a professional yet friendly LinkedIn post you New Journey Unlocked!
-
 I’m excited to share that I’ve officially started learning Python programming and Data Analysis! 
 
 As a Metallurgical & Materials Engineering student, I believe that blending engineering principles with data-driven decision-making is a powerful path toward real-world impact — and I’m ready to take that step!
